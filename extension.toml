@@ -1,0 +1,11 @@
+id = "lox"
+name = "Lox"
+version = "0.0.1"
+schema_version = 1
+authors = ["Arian Ahmadinejad<hey@arian.gg>"]
+description = "Lox syntax highlighting for Zed"
+repository = "https://github.com/arian81/zed-lox"
+
+[grammars.lox]
+repository = "https://github.com/ajeetdsouza/tree-sitter-lox"
+commit = "7e39bb2efbfe61d3f1bae6ab263d9a370c20395f"
